@@ -1,36 +1,51 @@
-# Resources
+# Projects
 
-Useful cheatsheets and reference materials.
+<p>Selected research and thesis projects from the CV.</p>
 
-<div class="resources-grid">
-    <a href="assets/TransformerLens___PyTorch_Quick_Reference.pdf" class="resource-card">
-        <div class="resource-preview">
-            <img src="assets/transformerlens_preview-1.png" alt="TransformerLens & PyTorch Quick Reference">
-        </div>
-        <div class="resource-name">TransformerLens & PyTorch Quick Reference</div>
-    </a>
-    <a href="assets/TransformerLens___PyTorch_Quick_Reference.tex" class="resource-card">
-        <div class="resource-preview">
-            <img src="assets/transformerlens_preview-1.png" alt="TransformerLens & PyTorch Quick Reference (LaTeX Source)">
-        </div>
-        <div class="resource-name">TransformerLens & PyTorch Quick Reference (LaTeX Source)</div>
-    </a>
-    <a href="assets/TransformerLens___PyTorch_Quick_Reference.md" class="resource-card">
-        <div class="resource-preview">
-            <img src="assets/transformerlens_preview-1.png" alt="TransformerLens & PyTorch Quick Reference (Markdown)">
-        </div>
-        <div class="resource-name">TransformerLens & PyTorch Quick Reference (Markdown)</div>
-    </a>
-    <a href="assets/pyproject.toml" class="resource-card" download>
-        <div class="resource-preview resource-preview-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                <polyline points="14 2 14 8 20 8"></polyline>
-                <line x1="16" y1="13" x2="8" y2="13"></line>
-                <line x1="16" y1="17" x2="8" y2="17"></line>
-                <polyline points="10 9 9 9 8 9"></polyline>
-            </svg>
-        </div>
-        <div class="resource-name">MechInterp pyproject.toml</div>
-    </a>
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title">CORTEX2: Real-time Face Reenactment for Video Conferencing</h3>
+    <div class="publication-venue">DFKI / EU Project</div>
+    <div class="publication-description">Built a generative real-time face reenactment system for video conferencing with bandwidth reduction, appearance control, and WebRTC integration with Alcatel's Rainbow platform.</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Generative Video</span>
+      <span class="tag tag-workshop">WebRTC</span>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title">Master's Thesis: Face Spoofing Detection with Generative Modeling</h3>
+    <div class="publication-venue">Yazd University</div>
+    <div class="publication-description">Studied how generative modeling can improve generalization in face spoofing detection systems and implemented the work in Python.</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Computer Vision</span>
+      <span class="tag tag-workshop">Generative Models</span>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title">Bachelor's Thesis: License Plate Detection and Recognition</h3>
+    <div class="publication-venue">Hormozgan University</div>
+    <div class="publication-description">Designed and implemented an end-to-end MATLAB pipeline for car license plate detection and recognition.</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Vision Pipeline</span>
+      <span class="tag tag-workshop">MATLAB</span>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title">Teaching and Mentorship</h3>
+    <div class="publication-venue">RPTU and Yazd University</div>
+    <div class="publication-description">Delivered lectures on neural rendering and deep generative models, supported courses in computer vision and pattern recognition, and supervised master's theses and graduate projects.</div>
+    <div class="publication-tags">
+      <span class="tag tag-arxiv">Teaching</span>
+      <span class="tag tag-interpretability">Supervision</span>
+    </div>
+  </div>
 </div>

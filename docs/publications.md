@@ -3,119 +3,85 @@
 ## 2026
 
 <div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/infusion_big_figure.jpg" alt="Infusion publication">
+  <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">ReLaGS: Relational Language Gaussian Splatting</span></h3>
+    <div class="publication-venue">CVPR 2026</div>
+    <div class="publication-authors">Y. Xie, A. Arafa, <strong>A. Javanmardi</strong>, C. Millerdurai, J. Hu, S. Wang, A. Pagani, D. Stricker</div>
+    <div class="publication-year">2026</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Conference</span>
+      <span class="tag tag-interpretability">Gaussian Splatting</span>
     </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://arxiv.org/abs/2602.09987" class="publication-link">
-                Infusion: Shaping Model Behavior by Editing Training Data via Influence Functions
-            </a>
-        </h3>
-        <div class="publication-venue">Preprint</div>
-        <div class="publication-authors">J Rosser, Robert Kirk, Edward Grefenstette, Jakob Foerster, Laura Ruis</div>
-        <div class="publication-year">2026</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">AI Security</span>
-            <a href="https://arxiv.org/abs/2602.09987" class="tag tag-arxiv">ARXIV</a>
-            <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a>
-        </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">TalkingPose: Efficient Face and Gesture Animation with Feedback-guided Diffusion Model</span></h3>
+    <div class="publication-venue">WACV 2026</div>
+    <div class="publication-authors"><strong>A. Javanmardi</strong>, P. Jaiswal, T. A. Habtegebrial, C. Millerdurai, S. Wang, A. Pagani, D. Stricker</div>
+    <div class="publication-year">2026</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Conference</span>
+      <span class="tag tag-workshop">Diffusion</span>
     </div>
+  </div>
 </div>
 
 ## 2025
 
 <div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
+  <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">Spatiotemporal Diffusion Model for Satellite Imagery</span></h3>
+    <div class="publication-venue">RSCy 2025</div>
+    <div class="publication-authors">P. N. Kashyap, <strong>A. Javanmardi</strong>, P. Jaiswal, G. Reis, A. Pagani, D. Stricker</div>
+    <div class="publication-year">2025</div>
+    <div class="publication-tags">
+      <span class="tag tag-workshop">Workshop</span>
+      <span class="tag tag-arxiv">Best Paper Award</span>
     </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
-                AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement
-            </a>
-        </h3>
-        <div class="publication-venue">NeurIPS 2025 spotlight</div>
-        <div class="publication-authors">J Rosser, Jakob Foerster</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Multi-Agent Safety</span>
-            <a href="https://arxiv.org/abs/2502.00757" class="tag tag-arxiv">ARXIV</a>
-            <a href="https://github.com/J-Rosser-UK/AgentBreeder" class="tag tag-github">GITHUB</a>
-        </div>
+  </div>
+</div>
+
+## 2024
+
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">Learning Images Across Scales Using Adversarial Training</span></h3>
+    <div class="publication-venue">ACM Transactions on Graphics (SIGGRAPH) 2024</div>
+    <div class="publication-authors">K. Wolski, A. Djeacoumar, <strong>A. Javanmardi</strong>, H.-P. Seidel, C. Theobalt, G. Cordonnier, K. Myszkowski, G. Drettakis, X. Pan, T. Leimkuhler</div>
+    <div class="publication-year">2024</div>
+    <div class="publication-tags">
+      <span class="tag tag-arxiv">Journal</span>
+      <span class="tag tag-conference">SIGGRAPH</span>
     </div>
+  </div>
 </div>
 
 <div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/stream_jpg.jpg" alt="Stream publication">
+  <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">G3FA: Geometry-guided GAN for Face Animation</span></h3>
+    <div class="publication-venue">BMVC 2024</div>
+    <div class="publication-authors"><strong>A. Javanmardi</strong>, A. Pagani, D. Stricker</div>
+    <div class="publication-year">2024</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Conference</span>
+      <span class="tag tag-workshop">Face Animation</span>
     </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://arxiv.org/pdf/2510.19875" class="publication-link">
-                Stream: Scaling Mechanistic Interpretability to Long Context in LLMs via Sparse Attention
-            </a>
-        </h3>
-        <div class="publication-venue">NeurIPS 2025 Mech Interp Workshop</div>
-        <div class="publication-authors">J Rosser, José Luis Redondo García, Gustavo Penha, Konstantina Palla, Hugues Bouchard</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Mechanistic Interpretability</span>
-            <a href="https://arxiv.org/pdf/2510.19875" class="tag tag-arxiv">ARXIV</a>
-        </div>
-    </div>
+  </div>
 </div>
 
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/mapping_faithful.jpg" alt="Mapping Faithful Reasoning publication">
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://openreview.net/pdf?id=NJNr5KbW3m" class="publication-link">
-                Mapping Faithful Reasoning in Language Models
-            </a>
-        </h3>
-        <div class="publication-venue">NeurIPS 2025 Mech Interp Workshop</div>
-        <div class="publication-authors">Jiazheng Li, Andreas Damianou, J Rosser, José Luis Redondo García, Konstantina Palla</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Mechanistic Interpretability</span>
-            <a href="https://openreview.net/pdf?id=NJNr5KbW3m" class="tag tag-arxiv">ARXIV</a>
-        </div>
-    </div>
-</div>
+## 2023
 
 <div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://github.com/jrosseruk/CyberAgentBreeder" class="publication-link">
-                CyberAgentBreeder: An Evolutionary Framework for Breeding LLM Cybersecurity Agents
-            </a>
-        </h3>
-        <div class="publication-venue">UK AISI Bounty Programme • Project</div>
-        <div class="publication-authors">J Rosser, Joe Skinner</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Agentic Scaffolds</span>
-            <a href="https://github.com/jrosseruk/CyberAgentBreeder" class="tag tag-github">GITHUB</a>
-        </div>
+  <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">Avatar Quality: A Study on Presence and User Preference</span></h3>
+    <div class="publication-venue">AIxVR 2023</div>
+    <div class="publication-authors">C. Gasch, <strong>A. Javanmardi</strong>, A. Garcia-Palacios, A. Pagani</div>
+    <div class="publication-year">2023</div>
+    <div class="publication-tags">
+      <span class="tag tag-conference">Conference</span>
+      <span class="tag tag-interpretability">XR</span>
     </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://www.lesswrong.com/posts/qwAiKvomuAm5ekC4D/subliminal-learning-transmitting-misalignment-via" class="publication-link">
-                Transmitting Misalignment with Subliminal Learning via Paraphrasing
-            </a>
-        </h3>
-        <div class="publication-venue">LessWrong</div>
-        <div class="publication-authors">Matthew Bozoukov, Taywon Min, J Rosser, Callum McDougall</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">AI Safety</span>
-            <a href="https://www.lesswrong.com/posts/qwAiKvomuAm5ekC4D/subliminal-learning-transmitting-misalignment-via" class="tag tag-arxiv">LESSWRONG</a>
-        </div>
-    </div>
+  </div>
 </div>
