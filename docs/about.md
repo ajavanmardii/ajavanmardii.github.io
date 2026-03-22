@@ -31,8 +31,8 @@
   </div>
 </div>
 
-<p>Alireza Javanmardi is a researcher at the German Research Center for Artificial Intelligence (DFKI) in the Augmented Vision Department, where he works on the EU CORTEX2 project. His research focuses on visual computing, generative modeling, diffusion models, neural rendering, and face animation.</p>
+<p>I am a researcher at DFKI’s Augmented Vision Department, where I contributed to the EU CORTEX2 project. My work lies at the intersection of visual computing and generative AI, with a focus on diffusion models, neural rendering, and face animation.</p>
 
-<p>Before joining DFKI, he was a research intern at the Max Planck Institute for Informatics in the Image Synthesis and Machine Learning Group. He holds an M.S. in Electrical Engineering from Yazd University and a B.S. in Electrical Engineering from Hormozgan University.</p>
+</p> Previously, I was a research intern at the Max Planck Institute for Informatics in the Image Synthesis and Machine Learning Group. I received my bachelor and master in Electrical Engineering.</p>
 
-<p>His recent work appears at CVPR 2026, WACV 2026, SIGGRAPH 2024, BMVC 2024, and AIxVR 2023. He also received the Best Paper Award at RSCy 2025 for work on spatiotemporal diffusion models for satellite imagery.</p>
+<!-- <p>His recent work appears at CVPR 2026, WACV 2026, SIGGRAPH 2024, BMVC 2024, and AIxVR 2023. He also received the Best Paper Award at RSCy 2025 for work on spatiotemporal diffusion models for satellite imagery.</p> -->

@@ -1000,6 +1000,33 @@ html {
     margin-top: 0.5rem;
 }
 
+.publication-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.publication-action {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    padding: 0.3rem 0.65rem;
+    border-radius: 0.25rem;
+    border: 1px solid color-mix(in srgb, var(--color-accent) 55%, var(--color-border));
+    color: var(--color-accent);
+    background-color: color-mix(in srgb, var(--color-accent) 10%, transparent);
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.publication-action:hover {
+    color: var(--color-global-bg);
+    background-color: var(--color-accent);
+    text-decoration: none;
+}
+
 .tag {
     font-size: 0.75rem;
     font-weight: 600;
