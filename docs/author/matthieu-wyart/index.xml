@@ -12,21 +12,5 @@
       <link>https://sdascoli.github.io/author/matthieu-wyart/</link>
     </image>
     
-    <item>
-      <title>Scaling description of generalization with number of parameters in deep learning</title>
-      <link>https://sdascoli.github.io/publication/scaling/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/scaling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jamming transition as a paradigm to understand the loss landscape of deep neural networks</title>
-      <link>https://sdascoli.github.io/publication/jamming/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/jamming/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
