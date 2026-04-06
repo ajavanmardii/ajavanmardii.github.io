@@ -14,6 +14,9 @@
       <a class="publication-action" href="https://github.com/dfki-av/ReLaGS" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
   </div>
+  <div class="publication-image">
+    <img src="assets/relags.gif" alt="Preview animation for ReLaGS" loading="lazy" decoding="async">
+  </div>
 </div>
 
 <div class="publication-card">
@@ -27,6 +30,9 @@
       <a class="publication-action" href="https://arxiv.org/pdf/2512.00909" target="_blank" rel="noopener noreferrer">Paper</a>
       <a class="publication-action" href="https://github.com/dfki-av/TalkingPose/tree/main" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
+  </div>
+  <div class="publication-image">
+    <img src="assets/talkingpose.gif" alt="Preview animation for TalkingPose" loading="lazy" decoding="async">
   </div>
 </div>
 
@@ -44,6 +50,9 @@
       <a class="publication-action" href="https://github.com/dfki-av/STDS" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
   </div>
+  <div class="publication-image">
+    <img src="assets/STDS.gif" alt="Preview animation for Spatiotemporal Diffusion Model for Satellite Imagery" loading="lazy" decoding="async">
+  </div>
 </div>
 
 ## 2024
@@ -60,6 +69,9 @@
       <a class="publication-action" href="https://github.com/Chuudy/scalespacegan" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
   </div>
+  <div class="publication-image">
+    <img src="assets/scalespacegan.gif" alt="Preview animation for Learning Images Across Scales Using Adversarial Training" loading="lazy" decoding="async">
+  </div>
 </div>
 
 <div class="publication-card">
@@ -73,6 +85,9 @@
       <a class="publication-action" href="https://arxiv.org/pdf/2408.13049" target="_blank" rel="noopener noreferrer">Paper</a>
       <a class="publication-action" href="https://github.com/dfki-av/G3FA" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
+  </div>
+  <div class="publication-image">
+    <img src="assets/g3fa.gif" alt="Preview animation for G3FA" loading="lazy" decoding="async">
   </div>
 </div>
 
