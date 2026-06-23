@@ -31,8 +31,8 @@
   </div>
 </div>
 
-<p>I am a researcher at DFKI’s Augmented Vision Department, where I contributed to the EU CORTEX2 project. My work lies at the intersection of visual computing and generative AI, with a focus on diffusion models, neural rendering, and face animation.</p>
+<p>I am a PhD researcher at the <a href="https://www.dfki.de/web" target="_blank" rel="noopener noreferrer">German Research Center for Artificial Intelligence (DFKI)</a>, in the <a href="https://av.dfki.de/" target="_blank" rel="noopener noreferrer">Augmented Vision Department</a>, Germany, under the supervision of <a href="https://alainpagani.github.io/" target="_blank" rel="noopener noreferrer">Dr. Alain Pagani</a> and <a href="https://av.dfki.de/members/stricker/" target="_blank" rel="noopener noreferrer">Prof. Didier Stricker</a>. My research focuses on generative models for image and video synthesis, particularly human face and gesture animation.</p>
 
-</p> Previously, I was a research intern at the Max Planck Institute for Informatics in the Image Synthesis and Machine Learning Group. I received my bachelor and master in Electrical Engineering.</p>
+<p>Before joining DFKI, I completed an internship at the <a href="https://www.mpi-inf.mpg.de/home" target="_blank" rel="noopener noreferrer">Max Planck Institute for Informatics</a>, Germany, in the <a href="https://ismael.mpi-inf.mpg.de/" target="_blank" rel="noopener noreferrer">ISMaeL Group</a> under the supervision of <a href="https://people.mpi-inf.mpg.de/~tleimkue/" target="_blank" rel="noopener noreferrer">Dr. Thomas Leimkühler</a>, where I worked on multi-scale image generation. I hold Bachelor's and Master's degrees in Electrical Engineering.</p>
 
 <!-- <p>His recent work appears at CVPR 2026, WACV 2026, SIGGRAPH 2024, BMVC 2024, and AIxVR 2023. He also received the Best Paper Award at RSCy 2025 for work on spatiotemporal diffusion models for satellite imagery.</p> -->

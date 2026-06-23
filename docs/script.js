@@ -261,6 +261,7 @@ class LazyImageLoader {
 class MarkdownLoader {
     constructor() {
         this.sections = ['about', 'publications'];
+        this.contentVersion = '20260623-2';
         this.init();
     }
 
@@ -286,8 +287,10 @@ class MarkdownLoader {
         
         for (const fullPath of pathsToTry) {
             try {
-                console.log(`Trying to fetch: ${fullPath}`);
-                const response = await fetch(fullPath);
+                const separator = fullPath.includes('?') ? '&' : '?';
+                const versionedPath = `${fullPath}${separator}v=${this.contentVersion}`;
+                console.log(`Trying to fetch: ${versionedPath}`);
+                const response = await fetch(versionedPath, { cache: 'no-store' });
                 if (response.ok) {
                     const markdown = await response.text();
                     const html = this.parseMarkdown(markdown);
@@ -296,7 +299,7 @@ class MarkdownLoader {
                     if (typeof window.applyBHoverEffect === 'function') {
                         window.applyBHoverEffect(contentElement);
                     }
-                    console.log(`Successfully loaded ${section} from: ${fullPath}`);
+                    console.log(`Successfully loaded ${section} from: ${versionedPath}`);
                     return; // Success, exit early
                 } else {
                     throw new Error(`HTTP ${response.status}: ${response.statusText}`);

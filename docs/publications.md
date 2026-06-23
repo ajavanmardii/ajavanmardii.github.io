@@ -1,7 +1,5 @@
 # Publications
 
-## 2026
-
 <div class="publication-card">
   <div class="publication-content">
     <h3 class="publication-title"><span class="publication-link">ReLaGS: Relational Language Gaussian Splatting</span></h3>
@@ -36,8 +34,6 @@
   </div>
 </div>
 
-## 2025
-
 <div class="publication-card">
   <div class="publication-content">
     <h3 class="publication-title"><span class="publication-link">Spatiotemporal Diffusion Model for Satellite Imagery</span></h3>
@@ -54,8 +50,6 @@
     <img src="assets/STDS.gif" alt="Preview animation for Spatiotemporal Diffusion Model for Satellite Imagery" loading="lazy" decoding="async">
   </div>
 </div>
-
-## 2024
 
 <div class="publication-card">
   <div class="publication-content">
@@ -90,4 +84,3 @@
     <img src="assets/g3fa.gif" alt="Preview animation for G3FA" loading="lazy" decoding="async">
   </div>
 </div>
-
