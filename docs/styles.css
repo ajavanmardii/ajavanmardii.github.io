@@ -506,6 +506,12 @@ body {
     text-decoration-thickness: 2px;
 }
 
+.prose .about-text-link,
+.prose .about-text-link:hover {
+    color: var(--color-link);
+    text-decoration: none;
+}
+
 /* About section layout */
 .about-header {
     display: flex;

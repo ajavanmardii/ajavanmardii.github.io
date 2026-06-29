@@ -15,6 +15,12 @@
         </svg>
         <span>Google Scholar</span>
       </a>
+      <a href="https://github.com/ajavanmardii" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
+        <svg viewBox="0 0 24 24" role="img" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+          <path d="M12 .7a12 12 0 0 0-3.79 23.39c.6.11.82-.26.82-.58v-2.24c-3.34.73-4.04-1.42-4.04-1.42-.55-1.39-1.33-1.76-1.33-1.76-1.09-.74.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.83 2.81 1.3 3.5 1 .11-.77.42-1.3.76-1.6-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.11-3.17 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.29-1.55 3.3-1.23 3.3-1.23.65 1.65.24 2.87.12 3.17.77.84 1.23 1.91 1.23 3.22 0 4.61-2.81 5.62-5.48 5.92.43.38.81 1.11.81 2.24v3.32c0 .32.22.7.82.58A12 12 0 0 0 12 .7Z"/>
+        </svg>
+        <span>GitHub</span>
+      </a>
       <a href="https://www.linkedin.com/in/alireza-javanmardi-06889a123/" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg">
           <path d="M20 3H4a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1ZM8.339 18.337H5.667v-8.59h2.672v8.59ZM7.003 8.574a1.548 1.548 0 1 1 0-3.096 1.548 1.548 0 0 1 0 3.096Zm11.335 9.763h-2.669V14.16c0-.996-.018-2.277-1.388-2.277-1.39 0-1.601 1.086-1.601 2.207v4.248h-2.667v-8.59h2.56v1.174h.037c.355-.675 1.227-1.387 2.524-1.387 2.704 0 3.203 1.778 3.203 4.092v4.71Z"/>
@@ -31,8 +37,8 @@
   </div>
 </div>
 
-<p>I am a PhD researcher at the <a href="https://www.dfki.de/web" target="_blank" rel="noopener noreferrer">German Research Center for Artificial Intelligence (DFKI)</a>, in the <a href="https://av.dfki.de/" target="_blank" rel="noopener noreferrer">Augmented Vision Department</a>, Germany, under the supervision of <a href="https://alainpagani.github.io/" target="_blank" rel="noopener noreferrer">Dr. Alain Pagani</a> and <a href="https://av.dfki.de/members/stricker/" target="_blank" rel="noopener noreferrer">Prof. Didier Stricker</a>. My research focuses on generative models for image and video synthesis, particularly human face and gesture animation.</p>
+<p>I am a PhD researcher at the German Research Center for Artificial Intelligence (DFKI), in the <a class="about-text-link" href="https://av.dfki.de/" target="_blank" rel="noopener noreferrer">Augmented Vision Department</a>, Germany, under the supervision of Dr. Alain Pagani and Prof. Didier Stricker. My research focuses on generative models for image and video synthesis, particularly human face and gesture animation.</p>
 
-<p>Before joining DFKI, I completed an internship at the <a href="https://www.mpi-inf.mpg.de/home" target="_blank" rel="noopener noreferrer">Max Planck Institute for Informatics</a>, Germany, in the <a href="https://ismael.mpi-inf.mpg.de/" target="_blank" rel="noopener noreferrer">ISMaeL Group</a> under the supervision of <a href="https://people.mpi-inf.mpg.de/~tleimkue/" target="_blank" rel="noopener noreferrer">Dr. Thomas Leimkühler</a>, where I worked on multi-scale image generation. I hold Bachelor's and Master's degrees in Electrical Engineering.</p>
+<p>Before joining DFKI, I completed an internship at the Max Planck Institute for Informatics, Germany, in the <a class="about-text-link" href="https://ismael.mpi-inf.mpg.de/" target="_blank" rel="noopener noreferrer">ISMaeL Group</a> under the supervision of Dr. Thomas Leimkühler, where I worked on multi-scale image generation. I hold Bachelor's and Master's degrees in Electrical Engineering.</p>
 
 <!-- <p>His recent work appears at CVPR 2026, WACV 2026, SIGGRAPH 2024, BMVC 2024, and AIxVR 2023. He also received the Best Paper Award at RSCy 2025 for work on spatiotemporal diffusion models for satellite imagery.</p> -->
