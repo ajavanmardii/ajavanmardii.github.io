@@ -2,6 +2,21 @@
 
 <div class="publication-card">
   <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">Multi-View Face and Gesture Animation with Dynamic Gaussians</span></h3>
+    <div class="publication-venue">SCA 2026</div>
+    <div class="publication-authors"><strong>A. Javanmardi<sup>*</sup></strong>, V. K. Jeetmal<sup>*</sup>, C. Millerdurai, A. Pagani, D. Stricker</div>
+    <!-- <div class="publication-year">2026</div> -->
+    <div class="publication-actions">
+      <a class="publication-action" href="https://dfki-av.github.io/MVFGA/" target="_blank" rel="noopener noreferrer">Project Page</a>
+    </div>
+  </div>
+  <div class="publication-image">
+    <img src="assets/MVFGA.gif" alt="Preview animation for Multi-View Face and Gesture Animation with Dynamic Gaussians" loading="lazy" decoding="async">
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
     <h3 class="publication-title"><span class="publication-link">ReLaGS: Relational Language Gaussian Splatting</span></h3>
     <div class="publication-venue">CVPR 2026</div>
     <div class="publication-authors">Y. Xie, A. Arafa, <strong>A. Javanmardi</strong>, C. Millerdurai, J. Hu, S. Wang, A. Pagani, D. Stricker</div>
