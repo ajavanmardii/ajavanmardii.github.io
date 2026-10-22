@@ -2,12 +2,30 @@
 
 <div class="publication-card">
   <div class="publication-content">
+    <h3 class="publication-title"><span class="publication-link">SERO: Semantic Prediction for Single-Step Object Removal</span></h3>
+    <div class="publication-venue">CVMP 2026</div>
+    <div class="publication-authors">Amreen Hasheem Siraj, <strong>Alireza Javanmardi</strong>, Pragati Jaiswal, Didier Stricker, Alain Pagani</div>
+    <div class="publication-actions">
+      <a class="publication-action" href="https://dfki-av.github.io/SERO/" target="_blank" rel="noopener noreferrer">Project Page</a>
+      <a class="publication-action" href="https://arxiv.org/pdf/2610.24173v1" target="_blank" rel="noopener noreferrer">Paper</a>
+    </div>
+  </div>
+  <div class="publication-image">
+    <img src="assets/sero.gif" alt="Preview animation for SERO: Semantic Prediction for Single-Step Object Removal" loading="lazy" decoding="async">
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
     <h3 class="publication-title"><span class="publication-link">Multi-View Face and Gesture Animation with Dynamic Gaussians</span></h3>
     <div class="publication-venue">SCA 2026</div>
     <div class="publication-authors"><strong>A. Javanmardi<sup>*</sup></strong>, V. K. Jeetmal<sup>*</sup>, C. Millerdurai, A. Pagani, D. Stricker</div>
     <!-- <div class="publication-year">2026</div> -->
     <div class="publication-actions">
       <a class="publication-action" href="https://dfki-av.github.io/MVFGA/" target="_blank" rel="noopener noreferrer">Project Page</a>
+      <a class="publication-action" href="https://arxiv.org/pdf/2608.04722" target="_blank" rel="noopener noreferrer">Paper</a>
+      <a class="publication-action" href="https://github.com/vipinsdk/MVFGA-preprocessing-pipeline" target="_blank" rel="noopener noreferrer">Code</a>
+      <a class="publication-action" href="https://huggingface.co/datasets/arjavanmardi/MVFGA" target="_blank" rel="noopener noreferrer">Dataset</a>
     </div>
   </div>
   <div class="publication-image">
@@ -42,6 +60,7 @@
       <a class="publication-action" href="https://dfki-av.github.io/TalkingPose/" target="_blank" rel="noopener noreferrer">Project Page</a>
       <a class="publication-action" href="https://arxiv.org/pdf/2512.00909" target="_blank" rel="noopener noreferrer">Paper</a>
       <a class="publication-action" href="https://github.com/dfki-av/TalkingPose/tree/main" target="_blank" rel="noopener noreferrer">Code</a>
+      <a class="publication-action" href="https://github.com/dfki-av/TalkingPose/tree/main" target="_blank" rel="noopener noreferrer">Dataset</a>
     </div>
   </div>
   <div class="publication-image">
